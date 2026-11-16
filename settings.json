@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
-    "version": "",
+    "ip": "Warriorsk1980-6rix.aternos.me:11221",
+    "port": 11221,
+    "version": "26.1.2",
     "try-creative": false
   },
   "position": {
